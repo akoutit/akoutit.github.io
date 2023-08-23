@@ -2,45 +2,83 @@
 
 ![Portfolio Banner](banner.png)
 
-Welcome to my GitHub portfolio! This repository showcases a collection of my projects and contributions. Each project represents my skills and interests in [mention your field or area of expertise].
+Welcome to my GitHub portfolio! I'm a student engineer seeking an internship of at least 25 weeks starting on April 1st. I aim to apply what I've learned during my years at engineering school and preparatory classes, learn new skills, and grow both professionally and personally.
 
 ## Table of Contents
 
+- [Experience](#experience)
+- [Education](#education)
 - [Projects](#projects)
-- [About Me](#about-me)
 - [Contact](#contact)
+- [Developer Tools](#developer-tools)
+
+## Experience
+
+### Engineering Internship (2023)
+
+- **Company**: Haption, Laval
+- **Description**: 
+  - Automated characterization of Virtuose devices.
+  - Validated precision in positions and forces.
+  - Identified system friction and balancing anomalies.
+
+### Business World Knowledge Internship (2022)
+
+- **Company**: Wafa Gestion, Casablanca
+- **Description**: 
+  - Portfolio management by OPCVM.
+  - Risk analysis.
+  - Identification of risk and performance indicators.
+
+### Citizen Engagement: Tutoring (2021-2022)
+
+- **Location**: Collège Stendhal, Nantes
+- **Description**: 
+  - Mentored secondary school students in mathematics and physics.
+
+## Education
+
+### Engineering Degree (Option: Mathematics and Applications) - 2021-2024
+
+- **Institution**: École Centrale de Nantes
+- **Relevant Courses**:
+  - Machine learning
+  - Statistics
+  - Operations research
+
+### Preparatory Classes (MP*) - 2019-2021
+
+- **Institution**: CPGE Mohamed V, Casablanca, Morocco
+- Intensive 2-year course in mathematics, physics, and engineering sciences.
+
+### International Baccalaureate SM - 2019
+
+- **Institution**: Lycée Errazi, Settat, Morocco
+- Graduated with honors.
 
 ## Projects
 
-### Project 1: [Project Name]
+### Queue Modeling Comparison
 
-- **Description**: Briefly describe the project, its purpose, and its key features.
-- **Link**: [Link to the project's repository or live demo]
-- **Technologies Used**: List the technologies, programming languages, and tools used in the project.
+- **Description**: Modeled queues and estimated wait times.
+- **Skills**: Probability, Stochastic Processes
 
-### Project 2: [Project Name]
+### Student-Enterprise Project
 
-- **Description**: Briefly describe the project, its purpose, and its key features.
-- **Link**: [Link to the project's repository or live demo]
-- **Technologies Used**: List the technologies, programming languages, and tools used in the project.
-
-[Repeat this section for each project in your portfolio]
-
-## About Me
-
-- Briefly introduce yourself, your background, and your interests related to your GitHub projects.
-- Highlight your key skills, achievements, or any notable experiences.
-- Mention any open-source contributions, if applicable.
+- **Description**: Developed a 3D model of an industrial environment.
 
 ## Contact
 
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [Your Twitter Profile URL]
-- Portfolio Website: [Your Portfolio Website URL, if applicable]
+- **Email**: [AbdellahKoutit@gmail.com](mailto:abdellahkoutit@gmail.com)
+- **Phone**: [+33-622853368](tel:+33-622853368)
+- **Location**: Nantes, France
+- **Portfolio**: [akoutit.github.io](https://akoutit.github.io)
+- **LinkedIn**: [Abdellah Koutit](https://www.linkedin.com/in/abdellah-koutit-5ab9851a4/)
 
-Feel free to explore my projects and reach out to me if you have any questions or collaboration ideas. Thanks for visiting!
+## Developer Tools
 
-[Optional: Add badges, shields, or extra sections like "Installation Instructions" or "Usage Examples" depending on the nature of your projects.]
-
-
+- Python
+- MySQL
+- C++
+- Ros2
+- Matlab
