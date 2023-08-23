@@ -1,4 +1,4 @@
-# [Your Name]'s Portfolio
+# Data Scientist
 
 ![Portfolio Banner](banner.png)
 
