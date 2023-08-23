@@ -1,4 +1,4 @@
-# Data Scientist
+# Student Engineer
 
 ![Portfolio Banner](banner.png)
 
