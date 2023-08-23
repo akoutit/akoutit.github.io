@@ -1,6 +1,6 @@
 # Data Scientist
 
-![Portfolio Banner](banner.png)
+![Portfolio Banner](cover)
 
 Welcome to my GitHub portfolio! This repository showcases a collection of my projects and contributions. Each project represents my skills and interests in [mention your field or area of expertise].
 
