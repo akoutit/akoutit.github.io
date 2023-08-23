@@ -2,7 +2,7 @@ title: Abdellah Koutit
 
 logo: 2.jpg
 
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/minimal-mistakes
 plugins:
 - jekyll-gallery-generator
   
