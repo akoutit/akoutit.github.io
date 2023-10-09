@@ -1,4 +1,4 @@
-# Student Engineer
+# Statistics & Data Science Student Engineer
 
 ![Portfolio Banner](Banner_.png)
 
