@@ -58,7 +58,7 @@ Welcome to my GitHub portfolio! I'm a student engineer seeking an internship of 
 
 ## Projects
 
-### [Queue Modeling Comparison(https://github.com/akoutit/akoutit.github.io/blob/main/README.md)]
+### [Queue Modeling Comparison](https://github.com/akoutit/akoutit.github.io/blob/main/README.md)
 
 - **Description**: Modeled queues and estimated wait times.
 - **Skills**: Probability, Stochastic Processes
