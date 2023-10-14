@@ -63,9 +63,20 @@ Welcome to my GitHub portfolio! I'm a student engineer seeking an internship of 
 - **Description**: Modeled queues and estimated wait times.
 - **Skills**: Probability, Stochastic Processes
 
-### Student-Enterprise Project
+### Constraint-based Optimization
 
-- **Description**: Developed a 3D model of an industrial environment.
+- **Description**: Designed a parallel robot for pick & place operations while adhering to space and singularity constraints.
+- **Skills**: Robotics, Constraint Optimization
+
+### Global Power Rankings Hackathon
+
+- **Description**: Developed a method to rank the world's top LoL Esports teams using official Riot Games data and AWS services.
+- **Skills**: Data Analysis, AWS, Esports
+
+### Snake Game Bots Development
+
+- **Description**: Designed and developed autonomous bots to play a Snake game at various difficulty levels.
+- **Skills**: Artificial Intelligence, Game Development
 
 ## Contact
 
