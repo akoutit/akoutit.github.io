@@ -58,25 +58,25 @@ Welcome to my GitHub portfolio! I'm a student engineer seeking an internship of 
 
 ## Projects
 
-### [Queue Modeling Comparison](https://github.com/akoutit/akoutit.github.io/blob/main/README.md)
-
-- **Description**: Modeled queues and estimated wait times.
-- **Skills**: Probability, Stochastic Processes
-
-### Constraint-based Optimization
+### [Constraint-based Optimization](https://github.com/akoutit/ROPAH)
 
 - **Description**: Designed a parallel robot for pick & place operations while adhering to space and singularity constraints.
 - **Skills**: Robotics, Constraint Optimization
 
-### Global Power Rankings Hackathon
+### [Global Power Rankings Hackathon](https://github.com/akoutit/GlobalPowerRanking)
 
 - **Description**: Developed a method to rank the world's top LoL Esports teams using official Riot Games data and AWS services.
 - **Skills**: Data Analysis, AWS, Esports
 
-### Snake Game Bots Development
+### [Snake Game Bots Development](https://github.com/akoutit/Snake)
 
 - **Description**: Designed and developed autonomous bots to play a Snake game at various difficulty levels.
 - **Skills**: Artificial Intelligence, Game Development
+
+### [Queue Modeling Comparison](https://github.com/akoutit/Files_Attente)
+
+- **Description**: Modeled queues and estimated wait times.
+- **Skills**: Probability, Stochastic Processes
 
 ## Contact
 
