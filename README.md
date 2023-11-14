@@ -58,6 +58,12 @@ Welcome to my GitHub portfolio! I'm a student engineer seeking an internship of 
 
 ## Projects
 
+### [Real-time Prediction of Crowds in SNCF-Transilien Trains](https://github.com/akoutit/DataChallenge)
+
+- **Description**: Developed a real-time prediction model to anticipate occupancy rates in SNCF-Transilien trains, aiding in better planning for the next station's passenger load.
+- **Skills**: Machine Learning, Predictive Modeling, Transportation Analytics
+
+
 ### [Constraint-based Optimization](https://github.com/akoutit/ROPAH)
 
 - **Description**: Designed a parallel robot for pick & place operations while adhering to space and singularity constraints.
