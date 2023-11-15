@@ -96,6 +96,7 @@ Welcome to my GitHub portfolio! I'm a student engineer seeking an internship of 
 
 - Python
 - MySQL
+- R
 - C++
 - Ros2
 - Matlab
