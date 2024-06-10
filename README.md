@@ -103,7 +103,12 @@ Welcome to my GitHub portfolio! I'm a student engineer seeking an internship of 
 
 ## Developer Tools
 
-- Python
+- Python:
+    - Scikit learn
+    - Openturns
+    - Smt
+    - Scipy
+    - Pandas  
 - MySQL
 - R
 - C++
