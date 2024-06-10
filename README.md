@@ -14,6 +14,15 @@ Welcome to my GitHub portfolio! I'm a student engineer seeking an internship of 
 
 ## Experience
 
+
+### Final Engineering Internship (2023)
+
+- **Company**: Air Liquide, Ile de France
+- **Description**: 
+  - Calibrating a surrogate model for ammonia cracking.
+  - Sensitivity analysis.
+  - Uncertainty propagation.
+
 ### Engineering Internship (2023)
 
 - **Company**: Haption, Laval
