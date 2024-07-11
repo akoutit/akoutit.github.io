@@ -87,7 +87,7 @@ Welcome to my GitHub portfolio! I'm an engineering graduate actively seeking a f
 
 ### [Global Power Rankings Hackathon](https://github.com/akoutit/GlobalPowerRanking)
 - **Description**: Developed a method to rank the world's top LoL Esports teams using official Riot Games data and AWS services.
-- **Skills**: Data Analysis, AWS, Esports
+- **Skills**: Data Analysis, AWS
 
 ### [Snake Game Bots Development](https://github.com/akoutit/Snake)
 - **Description**: Designed and developed autonomous bots to play a Snake game at various difficulty levels.
