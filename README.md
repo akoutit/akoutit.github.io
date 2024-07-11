@@ -35,8 +35,8 @@ Welcome to my GitHub portfolio! I'm a student engineer seeking an internship of 
 ## Experience
 
 
-### R&D Engineer - Computational and Data Science (2023)
-#### End of Study Project
+### R&D Engineer - Computational and Data Science (2024)
+- *End of Study Project*
 - **Company**: Air Liquide, Ile de France
 - **Description**: 
   - Calibration of a surrogate model of an industrial device.
