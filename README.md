@@ -126,7 +126,10 @@ Welcome to my GitHub portfolio! I'm an engineering graduate actively seeking a f
 - R
 - C++
 - Ros2
-- Matlab
+- Matlab | Simulink
+- Linux
+- GitLab
+- Latex
 
 ## Contact
 
