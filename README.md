@@ -24,7 +24,7 @@ Welcome to my GitHub portfolio! I'm an engineering graduate actively seeking a f
 - **Institution**: CPGE Mohamed V, Casablanca, Morocco
 - Intensive 2-year course in mathematics, physics, and engineering sciences.
 
-### [Engineering Degree (Option: Mathematics and Applications) - 2021-2024](https://github.com/akoutit)
+### [Engineering Degree (Mathematics and Applications) - 2021-2024](https://github.com/akoutit)
 
 - **Institution**: École Centrale de Nantes
 - **Program**:
