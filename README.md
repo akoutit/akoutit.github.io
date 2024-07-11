@@ -45,13 +45,15 @@ Welcome to my GitHub portfolio! I'm a student engineer seeking an internship of 
   - Benchmarking calibration algorithms
   - Tuning the hyperparameters of a neural network.
 
-### Engineering Internship (2023)
-
+### Robotics Software Engineer (2023)
+**Engineering Internship**
 - **Company**: Haption, Laval
 - **Description**: 
-  - Automated characterization of Virtuose devices.
-  - Validated precision in positions and forces.
-  - Identified system friction and balancing anomalies.
+  - Performance estimation of a teleoperation device
+  - Implementation of statistical tests to characterize the devices
+  - Design of a camera tracking system for the robot
+  - Development of a GUI
+- **Tools**: C++, Linux, Python, OpenCV, API, Qt, GUI
 
 ### Business World Knowledge Internship (2022)
 
