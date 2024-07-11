@@ -8,6 +8,7 @@ Welcome to my GitHub portfolio! I'm an engineering graduate actively seeking a f
 - [Experience](#experience)
 - [Projects](#projects)
 - [Developer Tools](#developer-tools)
+- [Career Journey](#career-journey)
 - [Contact](#contact)
 
 ## Education
