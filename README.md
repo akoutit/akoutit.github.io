@@ -91,7 +91,7 @@ Welcome to my GitHub portfolio! I'm an engineering graduate actively seeking a f
 
 ### [Snake Game Bots Development](https://github.com/akoutit/Snake)
 - **Description**: Designed and developed autonomous bots to play a Snake game at various difficulty levels.
-- **Skills**: Artificial Intelligence, Game Development
+- **Skills**: Advanced programming, Game Development
 - **Tools**: C++, Pygame, Qt
 
 ### [Queue Modeling Comparison](https://github.com/akoutit/Files_Attente)
