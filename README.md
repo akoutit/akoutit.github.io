@@ -12,8 +12,19 @@ Welcome to my GitHub portfolio! I'm a student engineer seeking an internship of 
 
 
 ## Education
+### [International Baccalaureate SM - 2019](https://github.com/akoutit)
 
-### Engineering Degree (Option: Mathematics and Applications) - 2021-2024
+- **Institution**: Lycée Errazi, Settat, Morocco
+- Graduated with honors.
+- 
+
+
+### [Preparatory Classes (MP*) - 2019-2021](https://github.com/akoutit)
+
+- **Institution**: CPGE Mohamed V, Casablanca, Morocco
+- Intensive 2-year course in mathematics, physics, and engineering sciences.
+
+### [Engineering Degree (Option: Mathematics and Applications) - 2021-2024](https://github.com/akoutit)
 
 - **Institution**: École Centrale de Nantes
 - **Program**:
@@ -29,21 +40,11 @@ Welcome to my GitHub portfolio! I'm a student engineer seeking an internship of 
   - Operations research
   - Times series
 
-### Preparatory Classes (MP*) - 2019-2021
-
-- **Institution**: CPGE Mohamed V, Casablanca, Morocco
-- Intensive 2-year course in mathematics, physics, and engineering sciences.
-
-### International Baccalaureate SM - 2019
-
-- **Institution**: Lycée Errazi, Settat, Morocco
-- Graduated with honors.
-
 
 ## Experience
 
 
-### [R&D Engineer - Computational and Data Science (2024)]
+### [R&D Engineer - Computational and Data Science (2024)](https://github.com/akoutit)
 **End of Study Project**
 - **Company**: Air Liquide, Ile de France
 - **Description**: 
@@ -53,7 +54,7 @@ Welcome to my GitHub portfolio! I'm a student engineer seeking an internship of 
   - Benchmarking calibration algorithms
   - Tuning the hyperparameters of a neural network.
 
-### Robotics Software Engineer (2023)
+### [Robotics Software Engineer (2023)](https://github.com/akoutit)
 **Engineering Internship**
 - **Company**: Haption, Laval
 - **Description**: 
@@ -63,7 +64,7 @@ Welcome to my GitHub portfolio! I'm a student engineer seeking an internship of 
   - Development of a GUI
 - **Tools**: C++, Linux, Python, OpenCV, API, Qt, GUI
 
-### Business World Knowledge Internship (2022)
+### [Business World Knowledge Internship (2022)](https://github.com/akoutit)
 
 - **Company**: Wafa Gestion, Casablanca
 - **Description**: 
@@ -71,7 +72,7 @@ Welcome to my GitHub portfolio! I'm a student engineer seeking an internship of 
   - Risk analysis.
   - Identification of risk and performance indicators.
 
-### Citizen Engagement: Tutoring (2021-2022)
+### [Citizen Engagement: Tutoring (2021-2022)](https://github.com/akoutit)
 
 - **Location**: Collège Stendhal, Nantes
 - **Description**: 
