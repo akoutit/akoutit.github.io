@@ -117,6 +117,10 @@ Welcome to my GitHub portfolio! I'm an engineering graduate actively seeking a f
 - **GitLab**
 - **LaTeX**
 
+## Career Journey
+
+![Career Journey Map](career_journey.png)
+
 ## Contact
 
 - **Email**: [AbdellahKoutit@gmail.com](mailto:abdellahkoutit@gmail.com)
