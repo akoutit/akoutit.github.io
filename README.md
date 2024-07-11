@@ -6,11 +6,32 @@ Welcome to my GitHub portfolio! I'm a student engineer seeking an internship of 
 
 ## Table of Contents
 
-- [Experience](#experience)
 - [Education](#education)
+- [Experience](#experience)
 - [Projects](#projects)
 - [Contact](#contact)
 - [Developer Tools](#developer-tools)
+
+## Education
+
+### Engineering Degree (Option: Mathematics and Applications) - 2021-2024
+
+- **Institution**: École Centrale de Nantes
+- **Relevant Courses**:
+  - Machine learning
+  - Statistics
+  - Operations research
+
+### Preparatory Classes (MP*) - 2019-2021
+
+- **Institution**: CPGE Mohamed V, Casablanca, Morocco
+- Intensive 2-year course in mathematics, physics, and engineering sciences.
+
+### International Baccalaureate SM - 2019
+
+- **Institution**: Lycée Errazi, Settat, Morocco
+- Graduated with honors.
+
 
 ## Experience
 
@@ -45,25 +66,6 @@ Welcome to my GitHub portfolio! I'm a student engineer seeking an internship of 
 - **Description**: 
   - Mentored secondary school students in mathematics and physics.
 
-## Education
-
-### Engineering Degree (Option: Mathematics and Applications) - 2021-2024
-
-- **Institution**: École Centrale de Nantes
-- **Relevant Courses**:
-  - Machine learning
-  - Statistics
-  - Operations research
-
-### Preparatory Classes (MP*) - 2019-2021
-
-- **Institution**: CPGE Mohamed V, Casablanca, Morocco
-- Intensive 2-year course in mathematics, physics, and engineering sciences.
-
-### International Baccalaureate SM - 2019
-
-- **Institution**: Lycée Errazi, Settat, Morocco
-- Graduated with honors.
 
 ## Projects
 
