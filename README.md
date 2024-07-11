@@ -126,7 +126,7 @@ Welcome to my GitHub portfolio! I'm an engineering graduate actively seeking a f
 
 - **Email**: [AbdellahKoutit@gmail.com](mailto:abdellahkoutit@gmail.com)
 - **Phone**: [+33-622853368](tel:+33-622853368)
-- **Location**: Versailles, France
+- **Location**: [Versailles, France](https://maps.app.goo.gl/HQfSmMbQ2qkAHR2c8)
 - **Portfolio**: [akoutit.github.io](https://akoutit.github.io)
 - **LinkedIn**: [Abdellah Koutit](https://www.linkedin.com/in/abdellah-koutit-5ab9851a4/)
 
