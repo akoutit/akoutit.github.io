@@ -16,7 +16,6 @@ Welcome to my GitHub portfolio! I'm a student engineer seeking an internship of 
 
 - **Institution**: Lycée Errazi, Settat, Morocco
 - Graduated with honors.
-- 
 
 
 ### [Preparatory Classes (MP*) - 2019-2021](https://github.com/akoutit)
@@ -39,6 +38,7 @@ Welcome to my GitHub portfolio! I'm a student engineer seeking an internship of 
       - Bayesian
   - Operations research
   - Times series
+  - Statistical learning
 
 
 ## Experience
