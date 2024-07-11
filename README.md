@@ -1,5 +1,3 @@
-# Statistics & Data Science Engineer
-
 ![Portfolio Banner](bannerli.png)
 
 Welcome to my GitHub portfolio! I'm a student engineer seeking an internship of at least 25 weeks starting on April 1st. I aim to apply what I've learned during my years at engineering school and preparatory classes, learn new skills, and grow both professionally and personally.
