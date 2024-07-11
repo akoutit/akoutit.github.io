@@ -7,8 +7,9 @@ Welcome to my GitHub portfolio! I'm a student engineer seeking an internship of 
 - [Education](#education)
 - [Experience](#experience)
 - [Projects](#projects)
-- [Contact](#contact)
 - [Developer Tools](#developer-tools)
+- [Contact](#contact)
+
 
 ## Education
 
@@ -34,13 +35,15 @@ Welcome to my GitHub portfolio! I'm a student engineer seeking an internship of 
 ## Experience
 
 
-### Final Engineering Internship (2023)
-
+### R&D Engineer - Computational and Data Science (2023)
+#### End of Study Project
 - **Company**: Air Liquide, Ile de France
 - **Description**: 
-  - Calibrating a surrogate model for ammonia cracking.
-  - Sensitivity analysis.
-  - Uncertainty propagation.
+  - Calibration of a surrogate model of an industrial device.
+  - Generation of fictitious data
+  - Uncertainty quantification and sensitivity study
+  - Benchmarking calibration algorithms
+  - Tuning the hyperparameters of a neural network.
 
 ### Engineering Internship (2023)
 
@@ -93,14 +96,6 @@ Welcome to my GitHub portfolio! I'm a student engineer seeking an internship of 
 - **Description**: Modeled queues and estimated wait times.
 - **Skills**: Probability, Stochastic Processes
 
-## Contact
-
-- **Email**: [AbdellahKoutit@gmail.com](mailto:abdellahkoutit@gmail.com)
-- **Phone**: [+33-622853368](tel:+33-622853368)
-- **Location**: Nantes, France
-- **Portfolio**: [akoutit.github.io](https://akoutit.github.io)
-- **LinkedIn**: [Abdellah Koutit](https://www.linkedin.com/in/abdellah-koutit-5ab9851a4/)
-
 ## Developer Tools
 
 - Python:
@@ -114,3 +109,12 @@ Welcome to my GitHub portfolio! I'm a student engineer seeking an internship of 
 - C++
 - Ros2
 - Matlab
+
+## Contact
+
+- **Email**: [AbdellahKoutit@gmail.com](mailto:abdellahkoutit@gmail.com)
+- **Phone**: [+33-622853368](tel:+33-622853368)
+- **Location**: Versailles, France
+- **Portfolio**: [akoutit.github.io](https://akoutit.github.io)
+- **LinkedIn**: [Abdellah Koutit](https://www.linkedin.com/in/abdellah-koutit-5ab9851a4/)
+
