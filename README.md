@@ -30,7 +30,7 @@ Welcome to my GitHub portfolio! I'm an engineering graduate actively seeking a f
 - **Program**:
   - Common core: Generalist Engineer.
   - 2nd year: Advanced Programming and Robotics.
-  - 3rd year: Mathematics and Applications: Statistics and Data Science.   
+  - 3rd year: Mathematics and Applications (*Statistics and Data Science*).   
   
 - **Relevant Courses**:
   - Machine learning
