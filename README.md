@@ -12,16 +12,16 @@ Welcome to my GitHub portfolio! I'm an engineering graduate actively seeking a f
 
 ## Education
 
-### [International Baccalaureate SM - 2019](https://github.com/akoutit)
+### [International Baccalaureate SM - 2019](https://maps.app.goo.gl/bDXLzZkFA9UpBHeM9)
 - **Institution**: Lycée Errazi, Settat, Morocco
 - Graduated with honors.
 
-### [Preparatory Classes (MP*) - 2019-2021](https://github.com/akoutit)
+### [Preparatory Classes (MP*) - 2019-2021](https://maps.app.goo.gl/Tfgo2rgHRvBjRg8n9)
 - **Institution**: CPGE Mohamed V, Casablanca, Morocco
 - Intensive 2-year course in mathematics, physics, and engineering sciences.
 - Ranked 28th out of 2574 nationally.
 
-### [Engineering Degree (Statistics and Data Science) - 2021-2024](https://github.com/akoutit)
+### [Engineering Degree (Statistics and Data Science) - 2021-2024](https://maps.app.goo.gl/DxeuFiprKuxduHEKA)
 - **Institution**: École Centrale de Nantes
 - **Program**:
   - Common core: Generalist Engineer.
@@ -36,7 +36,7 @@ Welcome to my GitHub portfolio! I'm an engineering graduate actively seeking a f
 
 ## Experience
 
-### [R&D Engineer - Computational and Data Science (2024)](https://github.com/akoutit)
+### [R&D Engineer - Computational and Data Science (2024)](https://maps.app.goo.gl/hwvdcT9Mv331LjHh9)
 **End of Study Project**
 - **Company**: Air Liquide, Ile de France
 - **Description**: 
@@ -47,7 +47,7 @@ Welcome to my GitHub portfolio! I'm an engineering graduate actively seeking a f
   - Tuning the hyperparameters of a neural network
 - **Tools**: scikit-learn, TensorFlow, Keras, Openturns, pandas, Gitlab
 
-### [Robotics Software Engineer (2023)](https://github.com/akoutit)
+### [Robotics Software Engineer (2023)](https://maps.app.goo.gl/vvDnHYdNbFcQR77G8)
 **Engineering Internship**
 - **Company**: Haption, Laval
 - **Description**: 
@@ -57,7 +57,7 @@ Welcome to my GitHub portfolio! I'm an engineering graduate actively seeking a f
   - Development of a GUI
 - **Tools**: C++, Linux, Python, OpenCV, API, Qt, GUI
 
-### [Data Scientist (2022)](https://github.com/akoutit)
+### [Data Scientist (2022)](https://maps.app.goo.gl/XdjZsCMRto3mM4dDA)
 **Observation Internship**
 - **Company**: Wafa Gestion, Casablanca
 - **Description**: 
@@ -65,7 +65,7 @@ Welcome to my GitHub portfolio! I'm an engineering graduate actively seeking a f
   - Risk analysis
   - Identification of risk and performance indicators
 
-### [Citizen Engagement: Tutoring (2021-2022)](https://github.com/akoutit)
+### [Citizen Engagement: Tutoring (2021-2022)](https://maps.app.goo.gl/iiE1quZAZ3cfALHL9)
 - **Location**: Collège Stendhal, Nantes
 - **Description**: 
   - Mentored secondary school students in mathematics and physics
