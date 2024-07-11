@@ -1,7 +1,6 @@
 ![Portfolio Banner](bannerli.png)
 
-Welcome to my GitHub portfolio! I'm an engineering graduate actively seeking a full-time position. I aim to leverage the skills and knowledge I've gained during my years at engineering school and preparatory classes. I'm eager to apply these in a professional setting, learn new technologies, and continue to grow both professionally and personally. 
-
+Welcome to my GitHub portfolio! I'm an engineering graduate actively seeking a full-time position as a Data Science, Statistics, and Learning Engineer. I aim to leverage the skills and knowledge I've gained during my years at engineering school and preparatory classes. I'm eager to apply these in a professional setting, learn new technologies, and continue to grow both professionally and personally.
 
 ## Table of Contents
 
@@ -11,49 +10,42 @@ Welcome to my GitHub portfolio! I'm an engineering graduate actively seeking a f
 - [Developer Tools](#developer-tools)
 - [Contact](#contact)
 
-
 ## Education
-### [International Baccalaureate SM - 2019](https://github.com/akoutit)
 
+### [International Baccalaureate SM - 2019](https://github.com/akoutit)
 - **Institution**: Lycée Errazi, Settat, Morocco
 - Graduated with honors.
 
-
 ### [Preparatory Classes (MP*) - 2019-2021](https://github.com/akoutit)
-
 - **Institution**: CPGE Mohamed V, Casablanca, Morocco
 - Intensive 2-year course in mathematics, physics, and engineering sciences.
+- Ranked 28th out of 2574 nationally.
 
-### [Engineering Degree (Mathematics and Applications) - 2021-2024](https://github.com/akoutit)
-
+### [Engineering Degree (Statistics and Data Science) - 2021-2024](https://github.com/akoutit)
 - **Institution**: École Centrale de Nantes
 - **Program**:
   - Common core: Generalist Engineer.
-  - 2nd year: Advanced Programming and Robotics.
-  - 3rd year: Mathematics and Applications (*Statistics and Data Science*).   
-  
+  - 2nd year: Advanced Programming, AI, and Robotics.
+  - 3rd year: Mathematics and Applications (Statistics and Data Science).
 - **Relevant Courses**:
   - Machine learning
-  - Statistics:
-      - Frequentist
-      - Bayesian
+  - Statistics (Frequentist and Bayesian)
   - Operations research
-  - Times series
+  - Time series
   - Statistical learning
 
-
 ## Experience
-
 
 ### [R&D Engineer - Computational and Data Science (2024)](https://github.com/akoutit)
 **End of Study Project**
 - **Company**: Air Liquide, Ile de France
 - **Description**: 
-  - Calibration of a surrogate model of an industrial device.
+  - Calibration of a surrogate model of an industrial device
   - Generation of fictitious data
   - Uncertainty quantification and sensitivity study
   - Benchmarking calibration algorithms
-  - Tuning the hyperparameters of a neural network.
+  - Tuning the hyperparameters of a neural network
+- **Tools**: scikit-learn, TensorFlow, Keras, Openturns, pandas, Gitlab
 
 ### [Robotics Software Engineer (2023)](https://github.com/akoutit)
 **Engineering Internship**
@@ -65,77 +57,70 @@ Welcome to my GitHub portfolio! I'm an engineering graduate actively seeking a f
   - Development of a GUI
 - **Tools**: C++, Linux, Python, OpenCV, API, Qt, GUI
 
-### [Business World Knowledge Internship (2022)](https://github.com/akoutit)
-
+### [Data Scientist (2022)](https://github.com/akoutit)
+**Observation Internship**
 - **Company**: Wafa Gestion, Casablanca
 - **Description**: 
-  - Portfolio management by OPCVM.
-  - Risk analysis.
-  - Identification of risk and performance indicators.
+  - Portfolio management by OPCVM
+  - Risk analysis
+  - Identification of risk and performance indicators
 
 ### [Citizen Engagement: Tutoring (2021-2022)](https://github.com/akoutit)
-
 - **Location**: Collège Stendhal, Nantes
 - **Description**: 
-  - Mentored secondary school students in mathematics and physics.
-
+  - Mentored secondary school students in mathematics and physics
 
 ## Projects
 
-### [Stochastic pricing of an excess of loss treaty at Generali  IARD](https://github.com/akoutit)
-
+### [Stochastic Pricing of an Excess of Loss Treaty at Generali IARD](https://github.com/akoutit)
 - **Description**: Simulation in R of several thousand years of claims history using advanced statistical models.
-- **Skills**: Kolmogorov-Smirnov test, QQ-plot, Extreme values...
-
+- **Skills**: Kolmogorov-Smirnov test, QQ-plot, Extreme values
 
 ### [Real-time Prediction of Crowds in SNCF-Transilien Trains](https://github.com/akoutit/DataChallenge)
-
 - **Description**: Developed a real-time prediction model to anticipate occupancy rates in SNCF-Transilien trains, aiding in better planning for the next station's passenger load.
 - **Skills**: Machine Learning, Predictive Modeling, Transportation Analytics
-
+- **Tools**: Pandas, scikit-learn, Keras
 
 ### [Constraint-based Optimization](https://github.com/akoutit/ROPAH)
-
 - **Description**: Designed a parallel robot for pick & place operations while adhering to space and singularity constraints.
 - **Skills**: Robotics, Constraint Optimization
 
 ### [Global Power Rankings Hackathon](https://github.com/akoutit/GlobalPowerRanking)
-
 - **Description**: Developed a method to rank the world's top LoL Esports teams using official Riot Games data and AWS services.
 - **Skills**: Data Analysis, AWS, Esports
 
 ### [Snake Game Bots Development](https://github.com/akoutit/Snake)
-
 - **Description**: Designed and developed autonomous bots to play a Snake game at various difficulty levels.
 - **Skills**: Artificial Intelligence, Game Development
+- **Tools**: C++, Pygame, Qt
 
 ### [Queue Modeling Comparison](https://github.com/akoutit/Files_Attente)
-
 - **Description**: Modeled queues and estimated wait times.
 - **Skills**: Probability, Stochastic Processes
 
 ## Developer Tools
 
-- Python:
-    - Scikit learn
-    - Openturns
-    - Smt
-    - Scipy
-    - Pandas  
-- MySQL
-- R
-- C++
-- Ros2
-- Matlab, Simulink
-- Linux
-- GitLab
-- Latex
+- **Python**:
+  - scikit-learn
+  - Openturns
+  - smt
+  - scipy
+  - pandas
+- **R**:
+  - Tidyverse
+  - ggplot2
+- **MySQL**
+- **C++**
+- **ROS2**
+- **Matlab, Simulink**
+- **Linux**
+- **GitLab**
+- **LaTeX**
 
 ## Contact
 
-- **Email**     : [AbdellahKoutit@gmail.com](mailto:abdellahkoutit@gmail.com)
-- **Phone**     : [+33-622853368](tel:+33-622853368)
-- **Location**  : [Versailles, France](https://maps.app.goo.gl/HQfSmMbQ2qkAHR2c8)
-- **Portfolio** : [akoutit.github.io](https://akoutit.github.io)
-- **LinkedIn**  : [Abdellah Koutit](https://www.linkedin.com/in/abdellah-koutit-5ab9851a4/)
-
+- **Email**: [AbdellahKoutit@gmail.com](mailto:abdellahkoutit@gmail.com)
+- **Phone**: [+33-622853368](tel:+33-622853368)
+- **Location**: [Versailles, France](https://maps.app.goo.gl/HQfSmMbQ2qkAHR2c8)
+- **Portfolio**: [akoutit.github.io](https://akoutit.github.io)
+- **LinkedIn**: [Abdellah Koutit](https://www.linkedin.com/in/abdellah-koutit-5ab9851a4/)
