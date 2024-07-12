@@ -45,7 +45,6 @@ Welcome to my GitHub portfolio! I'm an engineering graduate actively seeking a f
   - Generation of fictitious data
   - Uncertainty quantification and sensitivity study
   - Benchmarking calibration algorithms
-  - Tuning the hyperparameters of a neural network
 - **Tools**: scikit-learn, TensorFlow, Keras, Openturns, pandas, Gitlab
 
 ### [Robotics Software Engineer (2023)](https://maps.app.goo.gl/vvDnHYdNbFcQR77G8)
