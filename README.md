@@ -20,7 +20,7 @@ Welcome to my GitHub portfolio! I'm an engineering graduate actively seeking a f
 ### [Preparatory Classes (MP*) - 2019-2021](https://maps.app.goo.gl/Tfgo2rgHRvBjRg8n9)
 - **Institution**: CPGE Mohamed V, Casablanca, Morocco
 - Intensive 2-year course in mathematics, physics, and engineering sciences.
-- Ranked 28th out of 2574 nationally.
+- Ranked 28th nationally.
 
 ### [Engineering Degree (Statistics and Data Science) - 2021-2024](https://maps.app.goo.gl/DxeuFiprKuxduHEKA)
 - **Institution**: École Centrale de Nantes
