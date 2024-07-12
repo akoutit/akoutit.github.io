@@ -26,7 +26,7 @@ Welcome to my GitHub portfolio! I'm an engineering graduate actively seeking a f
 - **Institution**: École Centrale de Nantes
 - **Program**:
   - Common core: Generalist Engineer.
-  - 2nd year: Advanced Programming, AI, and Robotics.
+  - 2nd year: Advanced Programming and Robotics.
   - 3rd year: Mathematics and Applications (Statistics and Data Science).
 - **Relevant Courses**:
   - Machine learning
