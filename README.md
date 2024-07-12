@@ -119,7 +119,7 @@ Welcome to my GitHub portfolio! I'm an engineering graduate actively seeking a f
 
 ## Career Journey
 
-![Career Journey Map](career_journey.png)
+![Career Journey Map](career_journey_map.png)
 
 ## Contact
 
