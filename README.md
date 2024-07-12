@@ -74,7 +74,7 @@ Welcome to my GitHub portfolio! I'm an engineering graduate actively seeking a f
 
 ### [Stochastic Pricing of an Excess of Loss Treaty at Generali IARD](https://github.com/akoutit)
 - **Description**: Simulation in R of several thousand years of claims history using advanced statistical models.
-- **Skills**: Kolmogorov-Smirnov test, QQ-plot, Extreme values
+- **Skills**: Kolmogorov-Smirnov test, QQ-plot, Extreme values...
 
 ### [Real-time Prediction of Crowds in SNCF-Transilien Trains](https://github.com/akoutit/DataChallenge)
 - **Description**: Developed a real-time prediction model to anticipate occupancy rates in SNCF-Transilien trains, aiding in better planning for the next station's passenger load.
