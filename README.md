@@ -37,7 +37,7 @@ Welcome to my GitHub portfolio! I'm an engineering graduate actively seeking a f
 
 ## Experience
 
-### [R&D Engineer - Computational and Data Science (2024)](https://maps.app.goo.gl/hwvdcT9Mv331LjHh9)
+### [R&D Engineer - Computational and Data Science (2024)](https://github.com/akoutit/FB1D_Calibration)
 **End of Study Project**
 - **Company**: Air Liquide, Ile de France
 - **Description**: 
@@ -57,7 +57,7 @@ Welcome to my GitHub portfolio! I'm an engineering graduate actively seeking a f
   - Development of a GUI
 - **Tools**: C++, Linux, Python, OpenCV, API, Qt, GUI
 
-### [Data Scientist (2022)](https://github.com/akoutit/FB1D_Calibration)
+### [Data Scientist (2022)](https://github.com/akoutit)
 **Observation Internship**
 - **Company**: Wafa Gestion, Casablanca
 - **Description**: 
