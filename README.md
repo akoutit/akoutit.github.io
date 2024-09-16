@@ -47,7 +47,7 @@ Welcome to my GitHub portfolio! I'm an engineering graduate actively seeking a f
   - Benchmarking calibration algorithms
 - **Tools**: scikit-learn, TensorFlow, Keras, Openturns, pandas, Gitlab
 
-### [Robotics Software Engineer (2023)](https://maps.app.goo.gl/vvDnHYdNbFcQR77G8)
+### [Robotics Software Engineer (2023)](https://github.com/akoutit/TestBensh)
 **Engineering Internship**
 - **Company**: Haption, Laval
 - **Description**: 
@@ -57,7 +57,7 @@ Welcome to my GitHub portfolio! I'm an engineering graduate actively seeking a f
   - Development of a GUI
 - **Tools**: C++, Linux, Python, OpenCV, API, Qt, GUI
 
-### [Data Scientist (2022)](https://maps.app.goo.gl/XdjZsCMRto3mM4dDA)
+### [Data Scientist (2022)](https://github.com/akoutit/FB1D_Calibration)
 **Observation Internship**
 - **Company**: Wafa Gestion, Casablanca
 - **Description**: 
