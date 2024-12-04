@@ -1,4 +1,4 @@
-![Portfolio Banner](BAnnerli.jpg)
+![Portfolio Banner](BAnner.jpg)
 
 Welcome to my GitHub portfolio! I'm an engineering graduate actively seeking a full-time position as a Data Science, Statistics, and Learning Engineer. I aim to leverage the skills and knowledge I've gained during my years at engineering school and preparatory classes. I'm eager to apply these in a professional setting, learn new technologies, and continue to grow both professionally and personally.
 
